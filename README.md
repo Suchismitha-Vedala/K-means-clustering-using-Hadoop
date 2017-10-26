@@ -7,4 +7,4 @@ Enter the following Commands in the terminal
 1. hdfs dfs -rm -r -f / intermediate /
 2. ant clean
 3. ant build
-4. yarn jar build/lib/cloud_Suchi.jar src.{jar file of source code}  /{input-data} / intermediate /out
+4. yarn jar build/lib/cloud_Suchi.jar src.{HomeWorkExecute}  /{input-data} / intermediate /out
